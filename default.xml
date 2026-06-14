@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="BlissRoms" fetch="ssh://git@github.com/BlissRoms" review="review.blissroms.org" revision="waterlily-qpr2"/>
+  <remote name="BlissRoms" fetch="https://github.com/BlissRoms" review="review.blissroms.org" revision="waterlily-qpr2"/>
   <remote name="BlissRoms-Devices" fetch="https://github.com/BlissRoms-Devices"/>
   <remote name="BlissRoms-GitLab" fetch="https://gitlab.com/BlissLabs/BlissRoms" revision="waterlily-qpr2"/>
   <remote name="aosp" fetch="https://android.googlesource.com" review="android-review.googlesource.com" revision="refs/tags/android-16.0.0_r4"/>
